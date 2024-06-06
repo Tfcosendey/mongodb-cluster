@@ -56,6 +56,10 @@ sh.enableSharding("MyDatabase")
 db.adminCommand( { shardCollection: "MyDatabase.MyCollection", key: { warehouseId: 1, productId: 1 } } )
 
 ```
+Btw, here is mongodb connection string if you want to try to connect mongodb cluster with MongoDB Compass from your host computer (which is running docker)
 
+```
+mongodb://127.0.0.1:27117,127.0.0.1:27118
+```
 ---
 ### ✔️ Done !!!
