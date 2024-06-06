@@ -1,7 +1,7 @@
 MongoDB (6.0.1) Sharded Cluster with Docker Compose
 =========================================
 
-## Creddit: https://github.com/minhhungit/mongodb-cluster-docker-compose/tree/master
+## Credit: https://github.com/minhhungit/mongodb-cluster-docker-compose/tree/master
 
 ---
 ## ❓ Mongo Components
