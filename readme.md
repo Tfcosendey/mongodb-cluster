@@ -13,7 +13,7 @@ MongoDB (6.0.1) Sharded Cluster with Docker Compose
 	* `shard03-a`,`shard03-b`, `shard03-c`
 * 2 Routers (mongos): `router01`, `router02`
 
-<img src="https://raw.githubusercontent.com/minhhungit/mongodb-cluster-docker-compose/master/images/sharding-and-replica-sets.png" style="width: 100%;" />
+<img src="https://raw.githubusercontent.com/Tfcosendey/mongodb-cluster/main/images/sharding-and-replica-sets.png" style="width: 100%;" />
 
 ## ✨ Steps 
 
